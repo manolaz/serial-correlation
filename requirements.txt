@@ -1,0 +1,8 @@
+websocket
+asyncio
+websockets
+websocket-client
+pandas.io
+pandas_datareader
+pandas
+eikon
