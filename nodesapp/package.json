@@ -1,0 +1,13 @@
+{
+  "name": "serial-correlation",
+  "version": "1.0.0",
+  "description": "Stock enquities listener",
+  "main": "index.js",
+  "repository": "https://github.com/manolaz/serial-correlation",
+  "author": "Anh Trung Nguyen Vu <trungupdate@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "^1.0.31",
+    "ws": "^7.2.1"
+  }
+}
